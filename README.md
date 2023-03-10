@@ -1,1 +1,1 @@
-# Crystal_Lattice-_Simulation
+# Crystal_Lattice_Simulation
